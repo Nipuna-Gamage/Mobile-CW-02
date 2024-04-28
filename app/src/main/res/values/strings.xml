@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Mobile-CW-02</string>
+    <string name="title_activity_add_leagues_db">AddLeaguesDB</string>
+    <string name="title_activity_search_clubs">SearchClubs</string>
+    <string name="title_activity_search_clubs_league">SearchClubsLeague</string>
 </resources>
